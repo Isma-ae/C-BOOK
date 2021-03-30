@@ -1,0 +1,11 @@
+.my-body{
+	font-family: 'Sarabun', sans-serif;
+	background-image: url('../img/background.jpg');
+}
+.my-page{
+	background-color: white;
+	padding: 2px;
+}
+.my-con{
+	border-bottom: 5px solid black;
+}
